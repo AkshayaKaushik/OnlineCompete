@@ -1,0 +1,3 @@
+// Formula to calculate arraylist capacity increment.
+
+(CurrentCapacity *3/2)+1
